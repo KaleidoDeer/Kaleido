@@ -1,0 +1,18 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/kaleido
+kaleido.so
+kaleido.dylib
+kaleido.dll
+kaleido.a
+kaleido.lib
+kaleido-test-*
+*.exe
+*.o
+*.obj
+*.lst
+
+# Project exclude paths
+/out/
